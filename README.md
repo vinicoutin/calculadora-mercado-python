@@ -5,7 +5,7 @@ Este projeto foi desenvolvido em Python para praticar conceitos fundamentais de 
 ## 📌 O que o programa faz?
 O script solicita o preço de 11 itens de mercado, calcula o preço médio da cesta de produtos e classifica a compra com base nas faixas de preço:
 - **Cara:** Média maior ou igual a R$ 200,00
-- **Comprável:** Média entre R$ 120,00 e R$ 199,99
+- **Razoável:** Média entre R$ 120,00 e R$ 199,99
 - **Barata:** Média menor que R$ 120,00
 
 ## 🧠 Conceitos praticados
