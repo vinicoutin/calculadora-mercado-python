@@ -18,6 +18,6 @@ media = (banana + maca + uva + caju + morango + goiaba + laranja + peixe + arroz
 if media >= 200:
     print(f"A média foi R$ {media:.2f} e a compra está cara!")
 elif media >= 120:
-    print(f"A média foi R$ {media:.2f} e a compra está comprável.")
+    print(f"A média foi R$ {media:.2f} e a compra está rasoável.")
 else:
     print(f"A média foi R$ {media:.2f} e a compra está barata!")
